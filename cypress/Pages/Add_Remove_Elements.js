@@ -3,6 +3,9 @@ class Add_Remove_Elements {
         contentText: 'Add/Remove Elements',
         deleteButton: 'Delete',
         addElementButton: 'Add Element' ,
+        add_remove_elements:"add_remove_elements",
+        deleteARE: "Delete",
+        loopCount:20,
     }
     LOCATORS={
     
